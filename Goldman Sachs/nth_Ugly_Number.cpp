@@ -37,4 +37,4 @@ ull getNthUglyNo(int n)  {
   
     return next_ugly_no;
   
-	}
+}
