@@ -1,6 +1,6 @@
 ull getNthUglyNo(int n)  {
   
-	  ull ugly[n]; 
+    ull ugly[n]; 
     ugly[0] = 1;
   
     int i2 = 0, i3 = 0, i5 = 0;
